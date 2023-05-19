@@ -1,1 +1,1 @@
-# hello-world
+#Web design module will allow me to make userfriendly and responsive website.I will be able to show my content in structured and consumable way.If you have any idea you can make it come to reality by just designing it and launching it online.. I want make it easier for people to find what they need, navigate around the website, and do things like buying products or playing games. I wanna also make websites more enjoyable by using nice colors, pictures, and fonts which i will learn through this module.
